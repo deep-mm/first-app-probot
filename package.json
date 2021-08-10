@@ -12,8 +12,7 @@
     "probot-app"
   ],
   "scripts": {
-    "start": "probot run ./index.js",
-    "test": "jest"
+    "start": "probot run ./index.js"
   },
   "dependencies": {
     "probot": "^11.0.1",
